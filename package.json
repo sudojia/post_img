@@ -1,0 +1,11 @@
+{
+  "name": "cpdd",
+  "version": "0.1.5",
+  "description": "Static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zjwo",
+  "license": "ISC"
+}
