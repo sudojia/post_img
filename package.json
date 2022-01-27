@@ -1,6 +1,6 @@
 {
   "name": "cpdd",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Static file",
   "main": "index.js",
   "scripts": {
